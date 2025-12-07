@@ -66,6 +66,12 @@ Following are some of the bonus features implemented in our game:
 3. Continue Game  
 
 ---
+## UML Diagram:
+
+<img width="318" height="213" alt="image" src="https://github.com/user-attachments/assets/d932b589-90c3-4d02-bd40-105e980e326a" />
+<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/916ebf8a-3faa-4cd6-bbd2-5776cfbaa755" />
+<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/59281894-40ff-4e7e-9955-2cdbc3f4ca25" />
+<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/94d9ef8d-5412-4730-9bbe-0b3d2743e055" />
 
 ## Templates
 
@@ -74,13 +80,7 @@ The main use of templates is in the class:
 ```cpp
 template <typename T>
 class GameList {
-};
-## UML Diagram:
-
-<img width="318" height="213" alt="image" src="https://github.com/user-attachments/assets/d932b589-90c3-4d02-bd40-105e980e326a" />
-<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/916ebf8a-3faa-4cd6-bbd2-5776cfbaa755" />
-<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/59281894-40ff-4e7e-9955-2cdbc3f4ca25" />
-<img width="468" height="246" alt="image" src="https://github.com/user-attachments/assets/94d9ef8d-5412-4730-9bbe-0b3d2743e055" />
+};```
 
 
 
