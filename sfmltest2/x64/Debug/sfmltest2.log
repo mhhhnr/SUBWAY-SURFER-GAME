@@ -1,0 +1,12 @@
+﻿  coin.cpp
+  gameengine.cpp
+  main2.cpp
+  obstacle.cpp
+  player.cpp
+  powerup.cpp
+  railwaytrack.cpp
+  scoremanager.cpp
+  trackmanager.cpp
+  Generating Code...
+  LINK : C:\Users\11 TRDs\Desktop\2561_2619_2058_oopProject\x64\Debug\sfmltest2.exe not found or not built by the last incremental link; performing full link
+  sfmltest2.vcxproj -> C:\Users\11 TRDs\Desktop\2561_2619_2058_oopProject\x64\Debug\sfmltest2.exe
